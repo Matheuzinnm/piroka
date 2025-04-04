@@ -17,3 +17,13 @@
     height: 85vh; /*resto do site*/
 
 }
+
+.imagem img {
+border-radius: 50%; /*torna a imagem circular*/
+width: 50px; /*tamanho da imagem*/
+
+
+
+
+
+}
